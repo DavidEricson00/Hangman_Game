@@ -36,7 +36,7 @@
     <li>Run the game:</li>
     <pre><code>python main.py</code></pre>
 </ol>
-<h2>🌐 Want to Play in Portuguese?</h2>
+<h2>🌐 Quer Jogar em Português?</h2>
 <p>
-If you prefer to play in Portuguese, you can access the game by running <code>mainbr.py</code> instead of <code>main.py</code>.
+Se você prefere jogar em português, acesse o jogo rodando <code>mainbr.py</code> ao invés de <code>main.py</code>.
 </p>
